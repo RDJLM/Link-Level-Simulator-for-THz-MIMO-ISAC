@@ -40,7 +40,8 @@ The Software has already been copyrighted, and commercial use is not permitted. 
 
 ## Notes
 
-Before running the simulation, it is recommended to load parallel operations via the command of 'parpool('Processes');' for faster computation of terahertz molecular absorption coefficient.
+- Before running the simulation, it is recommended to load parallel operations via the command of 'parpool('Processes');' for faster computation of terahertz molecular absorption coefficient.
+- The logical connection between the user interface and the main functions (THz_MIMO_OFDM_Sen.p and THz_MIMO_OFDM_Com.p) can be checked in the 'Design View' and 'Code View' of file THz_MIMO_ISAC_Simulator.mlapp, and users can modify the details.
 
 ## Version history
 
