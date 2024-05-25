@@ -50,4 +50,3 @@ Before running the simulation, it is recommended to load parallel operations via
 
 Postgraduate student: rdjlm@bupt.edu.cn (currently in charge)
 Doctoral student: zx2000@bupt.edu.cn
-
