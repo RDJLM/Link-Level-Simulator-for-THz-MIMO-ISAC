@@ -1,0 +1,2 @@
+*.p linguist-language=matlab
+*.mlapp linguist-language=matlab
