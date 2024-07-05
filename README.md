@@ -5,9 +5,11 @@
 If you use this simulator for education, academic research, publication, and/or other purposes, then you must cite the following paper:
 
 Plain Text:
+
 H. Shi, C. Yang, and M. Peng, "Comprehensive Link-Level Simulator for Terahertz MIMO Integrated Sensing and Communication Systems with TDD Framework," IEEE Trans. Veh. Technol., 2024, early access, doi: 10.1109/TVT.2024.3422512.
 
 BibTex:
+
 @article{2024TVT_THz_MIMO_ISAC_Simulator,
   title={{Comprehensive Link-Level Simulator for Terahertz MIMO Integrated Sensing and Communication Systems with TDD Framework}},
   author={Shi, Hanchen and Yang, Chuang and Peng, Mugen},
