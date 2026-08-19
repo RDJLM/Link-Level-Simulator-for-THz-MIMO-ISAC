@@ -67,6 +67,6 @@ The Software has already been copyrighted, and commercial use is not permitted. 
 
 ## Contact information
 
-Postgraduate student: rdjlm@bupt.edu.cn (currently in charge)
+Postgraduate student: rdjlm@bupt.edu.cn 
 
-Doctoral student: zx2000@bupt.edu.cn
+Doctoral student: zx2000@bupt.edu.cn (currently in charge)
